@@ -423,7 +423,7 @@ hr {
   }
   .tile.tile-16 .tile-inner {
     background: url('../tile-sets/udacity/16.png');
-    background-size: 100%;
+    background-size: 125%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
@@ -436,7 +436,7 @@ hr {
   }
   .tile.tile-64 .tile-inner {
     background: url('../tile-sets/udacity/64.png');
-    background-size: 100%;
+    background-size: 130%;
     color: rgba(0,0,0,0);
     font-size: 14px;
 
