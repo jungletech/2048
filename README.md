@@ -15,6 +15,6 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 
 
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+2048 is licensed under the [MIT license.]https://github.com/jungletech/Kim-Jong-Un-2048/blob/gh-pages/LICENSE.txt
 
 
