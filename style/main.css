@@ -91,7 +91,7 @@ h1.title {
     top: -50px;
     opacity: 0; } }
 .scores-container {
-  float: right;
+  float: left;
   text-align: right; }
 
 .score-container, .best-container {
@@ -103,7 +103,7 @@ h1.title {
   height: 25px;
   line-height: 47px;
   font-weight: bold;
-  border-radius: 3px;
+  border-radius: 30px;
   color: white;
   margin-top: 8px;
   text-align: center; }
@@ -982,17 +982,17 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #1e6477;
-  border-radius: 3px;
+  background: #0c92bf;
+  border-radius: 30px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
-  line-height: 42px;
+  color: #eee4da;
+  line-height: 47px;
   cursor: pointer;
   display: block;
   text-align: center;
-  float: right; 
-  margin-top: 7px;
+  float: left; 
+  margin-top: 12px;
 }
 
 a.retry-button, a.learn-low {
