@@ -3,6 +3,8 @@ function Grid(size, previousState) {
   this.cells = previousState ? this.fromState(previousState) : this.empty();
 }
 
+
+
 // Build a grid of the specified size
 Grid.prototype.empty = function () {
   var cells = [];

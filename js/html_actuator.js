@@ -172,7 +172,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.textContent = "Tweet";
 
-  var text = "" + this.score + " points in Kim Jong Un 2048! http://ow.ly/zn6x7 #KimJongUn2048game @ChristianJung9"
+  var text = "" + this.score + " points in Kim Jong Un 2048! http://ow.ly/zn6x7 #KimJongUn2048game @K_Jong_Un"
   tweet.setAttribute("data-text", text);
 
   return tweet;
