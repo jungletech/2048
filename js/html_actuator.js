@@ -166,6 +166,10 @@ HTMLActuator.prototype.clearMessage = function () {
   this.messageContainer.classList.remove("game-over");
 };
 
+// tweet
+//twitter
+
+
 HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
@@ -174,6 +178,8 @@ HTMLActuator.prototype.scoreTweetButton = function () {
 
   var text = "" + this.score + " points in Kim Jong Un 2048! http://ow.ly/zn6x7 #KimJongUn2048game @K_Jong_Un"
   tweet.setAttribute("data-text", text);
+  
+
 
   return tweet;
 };
