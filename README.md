@@ -1,5 +1,5 @@
 
-This is made by Christian Jung  with thanks to Udacity and Gabrille Circulli.
+This is made with thanks to Udacity and Gabrille Circulli.
 
 KIM JONG UN 2048
 

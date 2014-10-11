@@ -14,6 +14,8 @@ function GameManager(size, InputManager, Actuator, StorageManager) {
   this.setup();
 }
 
+
+
 // Restart the game
 GameManager.prototype.restart = function () {
   this.storageManager.clearGameState();
@@ -279,3 +281,8 @@ GameManager.prototype.tileMatchesAvailable = function () {
 GameManager.prototype.positionsEqual = function (first, second) {
   return first.x === second.x && first.y === second.y;
 };
+
+
+
+
+
